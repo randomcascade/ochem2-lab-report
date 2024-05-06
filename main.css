@@ -21,6 +21,10 @@
 .cmbx-10{ font-weight: bold;}
 .cmbx-10{ font-weight: bold;}
 .cmtt-10{font-family: monospace,monospace;}
+.cmr-9{font-size:90%;}
+.cmr-6{font-size:60%;}
+.cmmi-9{font-size:90%;font-style: italic;}
+.cmsy-6{font-size:60%;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}

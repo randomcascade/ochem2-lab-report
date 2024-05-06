@@ -1,3 +1,5 @@
+htfcss: cmmi font-style: italic;
+htfcss: cmmib font-style: italic; font-weight: bold;
 htfcss: cmtt font-family: monospace,monospace;
 htfcss: cmbx  font-weight: bold;
 htfcss: cmbxsl  font-weight: bold; font-style: oblique;
@@ -7,8 +9,6 @@ htfcss: cmbx  font-weight: bold;
 htfcss: cmbxsl  font-weight: bold; font-style: oblique;
 htfcss: cmbx  font-weight: bold;
 htfcss: cmbxsl  font-weight: bold; font-style: oblique;
-htfcss: cmmi font-style: italic;
-htfcss: cmmib font-style: italic; font-weight: bold;
 File: main.html
 File: main.css
 File: main.tmp
@@ -174,3 +174,7 @@ Font("cmr","12","12","100")
 Font("cmbx","12","12","100")
 Font("cmbx","10","10","100")
 Font("cmtt","10","10","100")
+Font("cmr","9","9","100")
+Font("cmr","6","6","100")
+Font("cmmi","9","9","100")
+Font("cmsy","6","6","100")

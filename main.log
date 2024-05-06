@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.5.5)  5 MAY 2024 21:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2024.5.6)  6 MAY 2024 05:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -75,6 +75,28 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count196
 \@lastruleclass=\count197
 \@thisrulewidth=\dimen158
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count198
+\Gm@cntv=\count199
+\c@Gm@tempcnt=\count266
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks20
 ) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
 version 2021-06-20-15:33
 --------------------------------------
@@ -87,7 +109,7 @@ version 2021-06-20-15:33
 version 2021-09-14-14:11
 l.855 --- TeX4ht warning --- nonprimitive \everypar ---
 --- needs --- tex4ht main ---
-\tmp:cnt=\count198
+\tmp:cnt=\count267
 \openout15 = `main.tmp'.
 
 (./main.tmp)
@@ -184,8 +206,8 @@ version 2022-01-23-07:51
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
 )
-\:tokwrite=\toks19
-\:tokpage=\toks20
+\:tokwrite=\toks21
+\:tokpage=\toks22
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -354,6 +376,16 @@ version 2021-06-19-14:11
 version 2021-04-16-13:27
 ) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2022-01-23-07:51
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/geometry.4ht
+version 2016-07-01-08:55
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2022-02-03-14:35
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2021-06-19-14:11
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2021-04-16-13:27
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2022-01-23-07:51
 )) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2022-02-03-14:35
 ) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
@@ -365,29 +397,63 @@ version 2022-01-23-07:51
 )) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2022-01-12 L3 backend support: dvips
 \l__pdf_internal_box=\box52
-\g__pdf_backend_object_int=\count199
+\g__pdf_backend_object_int=\count268
 \l__pdf_backend_content_box=\box53
 \l__pdf_backend_model_box=\box54
-\g__pdf_backend_annotation_int=\count266
-\g__pdf_backend_link_int=\count267
-\g__pdf_backend_link_sf_int=\count268
+\g__pdf_backend_annotation_int=\count269
+\g__pdf_backend_link_int=\count270
+\g__pdf_backend_link_sf_int=\count271
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=556.47656pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 --- file main.css ---
 (./titlepage.tex [1
 
@@ -398,9 +464,9 @@ LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
+(Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 12.
+(Font)              <5> on input line 13.
 [4
 
 ] [5
@@ -423,14 +489,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [17
 
-] (./main.aux) ) 
+] [18] [19] [20]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 228.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 228.
+[21] [22] [23] [24] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4409 strings out of 478288
- 55452 string characters out of 5849316
- 487291 words of memory out of 5000000
- 22544 multiletter control sequences out of 15000+600000
- 471551 words of font info for 36 fonts, out of 8000000 for 9000
+ 5117 strings out of 478288
+ 67020 string characters out of 5849316
+ 501666 words of memory out of 5000000
+ 23220 multiletter control sequences out of 15000+600000
+ 473541 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,9n,60p,1094b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,9n,81p,2002b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (19 pages, 73444 bytes).
+Output written on main.dvi (26 pages, 97088 bytes).
