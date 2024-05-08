@@ -1,30 +1,29 @@
  
 /* start css.sty */
-.cmr-7{font-size:70%;}
-.cmmi-10{font-style: italic;}
-.cmbx-12x-x-144{font-size:172%; font-weight: bold;}
+.cmr-10{font-size:90%;}
+.cmr-10x-x-109{}
+.cmbx-12x-x-144{font-size:157%; font-weight: bold;}
 .cmbx-12x-x-144{ font-weight: bold;}
 .cmbx-12x-x-144{ font-weight: bold;}
 .cmbx-12x-x-144{ font-weight: bold;}
-.cmr-12x-x-120{font-size:144%;}
-.cmbx-12x-x-120{font-size:144%; font-weight: bold;}
+.cmr-12x-x-120{font-size:130%;}
+.cmbx-12x-x-120{font-size:130%; font-weight: bold;}
 .cmbx-12x-x-120{ font-weight: bold;}
 .cmbx-12x-x-120{ font-weight: bold;}
 .cmbx-12x-x-120{ font-weight: bold;}
-.cmr-12{font-size:120%;}
-.cmbx-12{font-size:120%; font-weight: bold;}
+.cmr-12{font-size:109%;}
+.cmbx-12{font-size:109%; font-weight: bold;}
 .cmbx-12{ font-weight: bold;}
 .cmbx-12{ font-weight: bold;}
 .cmbx-12{ font-weight: bold;}
-.cmbx-10{ font-weight: bold;}
-.cmbx-10{ font-weight: bold;}
-.cmbx-10{ font-weight: bold;}
-.cmbx-10{ font-weight: bold;}
-.cmtt-10{font-family: monospace,monospace;}
-.cmr-9{font-size:90%;}
-.cmr-6{font-size:60%;}
-.cmmi-9{font-size:90%;font-style: italic;}
-.cmsy-6{font-size:60%;}
+.cmbx-10x-x-109{ font-weight: bold;}
+.cmbx-10x-x-109{ font-weight: bold;}
+.cmbx-10x-x-109{ font-weight: bold;}
+.cmbx-10x-x-109{ font-weight: bold;}
+.cmtt-10x-x-109{font-family: monospace,monospace;}
+.cmr-8{font-size:72%;}
+.cmmi-10x-x-109{font-style: italic;}
+.cmsy-8{font-size:72%;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
@@ -162,13 +161,13 @@ table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
 .hline hr, .cline hr{border:none;border-top:1px solid black;}
 .hline {border-top: 1px solid black;}
 div.array {text-align:center;}
-tr#TBL-1-1- {border-top:0.112em solid #000;} 
-tr#TBL-1-1- {border-bottom:0.06999em solid #000}
-tr#TBL-2-1- {border-top:0.112em solid #000;} 
-tr#TBL-2-1- {border-bottom:0.06999em solid #000}
-tr#TBL-3-1- {border-top:0.112em solid #000;} 
-tr#TBL-3-1- {border-bottom:0.06999em solid #000}
-tr#TBL-4-1- {border-top:0.112em solid #000;} 
-tr#TBL-4-1- {border-bottom:0.06999em solid #000}
+tr#TBL-1-1- {border-top:0.12263em solid #000;} 
+tr#TBL-1-1- {border-bottom:0.07664em solid #000}
+tr#TBL-2-1- {border-top:0.12263em solid #000;} 
+tr#TBL-2-1- {border-bottom:0.07664em solid #000}
+tr#TBL-3-1- {border-top:0.12263em solid #000;} 
+tr#TBL-3-1- {border-bottom:0.07664em solid #000}
+tr#TBL-4-1- {border-top:0.12263em solid #000;} 
+tr#TBL-4-1- {border-bottom:0.07664em solid #000}
 /* end css.sty */
 

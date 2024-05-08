@@ -126,6 +126,7 @@ Css: div.maketitle{ margin-bottom: 2em; }
 Css: div.author, div.date {text-align:center;}
 Css: div.thanks{text-align:left; margin-left:10%; font-size:85%; font-style:italic; }
 Css: div.author{white-space: nowrap;}
+Font_Size: 11
 Css: div.abstract p {margin-left:5%; margin-right:5%;}
 Css: div.abstract {width:100%;}
 Css: .abstracttitle{text-align:center;margin-bottom:1em;}
@@ -155,26 +156,24 @@ Css: .hline td, .cline td{ padding: 0; }
 Css: .hline hr, .cline hr{border:none;border-top:1px solid black;}
 Css: .hline {border-top: 1px solid black;}
 Css: div.array {text-align:center;}
-Css: tr#TBL-1-1- {border-top:0.112em solid #000;} 
-Css: tr#TBL-1-1- {border-bottom:0.06999em solid #000}
-Css: tr#TBL-2-1- {border-top:0.112em solid #000;} 
-Css: tr#TBL-2-1- {border-bottom:0.06999em solid #000}
-Css: tr#TBL-3-1- {border-top:0.112em solid #000;} 
-Css: tr#TBL-3-1- {border-bottom:0.06999em solid #000}
-Css: tr#TBL-4-1- {border-top:0.112em solid #000;} 
-Css: tr#TBL-4-1- {border-bottom:0.06999em solid #000}
+Css: tr#TBL-1-1- {border-top:0.12263em solid #000;} 
+Css: tr#TBL-1-1- {border-bottom:0.07664em solid #000}
+Css: tr#TBL-2-1- {border-top:0.12263em solid #000;} 
+Css: tr#TBL-2-1- {border-bottom:0.07664em solid #000}
+Css: tr#TBL-3-1- {border-top:0.12263em solid #000;} 
+Css: tr#TBL-3-1- {border-bottom:0.07664em solid #000}
+Css: tr#TBL-4-1- {border-top:0.12263em solid #000;} 
+Css: tr#TBL-4-1- {border-bottom:0.07664em solid #000}
 --- characters ---
-Font("cmr","7","7","100")
 Font("cmr","10","10","100")
-Font("cmmi","10","10","100")
+Font("cmr","10","10","109")
 Font("cmbx","12","12","144")
 Font("cmr","12","12","120")
 Font("cmbx","12","12","120")
 Font("cmr","12","12","100")
 Font("cmbx","12","12","100")
-Font("cmbx","10","10","100")
-Font("cmtt","10","10","100")
-Font("cmr","9","9","100")
-Font("cmr","6","6","100")
-Font("cmmi","9","9","100")
-Font("cmsy","6","6","100")
+Font("cmbx","10","10","109")
+Font("cmtt","10","10","109")
+Font("cmr","8","8","100")
+Font("cmmi","10","10","109")
+Font("cmsy","8","8","100")
